@@ -25,4 +25,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
       run: |
         hub release edit -a epg.xml -a epg.xml.gz -m "EPG has been updated." latest
-        
+  
