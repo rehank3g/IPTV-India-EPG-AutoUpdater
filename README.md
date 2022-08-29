@@ -1,7 +1,7 @@
 <p align="center"><img src="https://www.tataplay.com/s3-api/v1/assets/others/intro-image-desktop.png" ></p>
 
 
-# IPTV India EPG Autoupdater Script
+# IPTV India EPG AutoUpdater Script
 
 A script to update EPG files everyday in certain time from the Indian EPG Source 
 # Requirements
